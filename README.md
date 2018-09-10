@@ -3,6 +3,7 @@ Tips when scraping with python
 
 1. Check browser header: 
  https://www.whatismybrowser.com/
+ 
  https://www.whatismybrowser.com/detect/what-http-headers-is-my-browser-sending
  
 2. Edit cookis
